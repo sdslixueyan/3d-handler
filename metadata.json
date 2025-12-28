@@ -1,0 +1,7 @@
+{
+  "name": "Celestial Particle Planet",
+  "description": "An interactive 3D particle visualization of a vibrant orange planet with white rings, controlled by hand gestures using MediaPipe and Three.js.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
